@@ -9,7 +9,7 @@ The purpose of this repository is to demonstrate and practice a simple workflow 
 
 ## Steps Followed
 1. Created a GitHub account and installed Git software on my local machine.
-2. Initialized a local repository using Git Bash and created a `feature-tutorial` branch.
+2. Initialised a local repository using Git Bash and created a `feature-tutorial` branch.
 3. Added my classmate, Ronsdale, as a collaborator on the GitHub repository.
 4. Created a file named `info.py` containing a Python script that prints my first and last name, then committed it locally.
 5. Fetched and merged the remote `main` branch into `feature-tutorial` using `--allow-unrelated-histories` to sync diverging commit histories.
